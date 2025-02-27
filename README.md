@@ -28,3 +28,4 @@ attendance/
 │── face_model.xml        # Saved trained model
 │── requirements.txt      # Dependencies
 │── README.md             # Project documentation
+
